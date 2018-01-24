@@ -6,10 +6,3 @@ var height = "70"
 module.exports = { name, height
 }
 
-if (tests.name === "Joe") {
-  console.log("The name is correct")
-} else { console.log("incorrect") }
-
-if (test.height ==== 74) {
-  console.log("Height is correct")
-}
